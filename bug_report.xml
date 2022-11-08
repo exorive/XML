@@ -1,1 +1,19 @@
+<Bug_report>
 
+  <ID> 1 </ID>
+  <Title> It is not redicrected to the main page after clicking on home page icon in the header of the site </Title>
+  <Precondition> 
+          <1> Open site www.saucedemo.com </1>
+          <2> Login as standard_user </2>
+  </Precondition>
+  <STR>
+          <1> Click on any product card </1>
+          <2> Click on home page icon in header </2>
+  </STR>
+  <Expected result> Redirected to the main page after clicking on the home page icon </Expected result>
+  <Actual_result> It is not redicrected to the main page after clicking on hope page icon in the header of the site </Actual_result>
+  <Severity> Medium </Severity>
+  <Environment> Google Chrome version 102.0.5005.115 64 bit </Enviroment>
+  <Attachments> https://i.imgur.com/XXFa8i5.png </Attachments>
+  
+  </Bug_report>
