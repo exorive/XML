@@ -1,0 +1,28 @@
+ <skills>
+   <item_1> basic testing theory </item_1>
+   <item_2> client-server architecture </item_2>
+   <item_3> HTTP methods of requests to the server </item_3>
+   <item_4> HTTP response codes </item_4>
+   <item_5> structures of HTTP requests and responses </item_5>
+   <item_6> what is JSON, XML. Their structure </item_6>
+   <item_7> testing API through Postman (JS, API autotests) </item_7>
+   <item_8> capturing and reading logs from an external server </item_8>
+   <item_9> sniffing http web traffic through Charles and Fiddler </item_9>
+   <item_10> DevTools web browsers </item_10>
+   <item_11> VPN </item_11>
+   <item_12> mobile testing </item_12>
+   <item_13> building iOS apps on XCode </item_13>
+   <item_14> building Android apps on Android Studio </item_14>
+   <item_15> ADB </item_15>
+   <item_16> setting up proxies and vpn on iOS and Android </item_16>
+   <item_17> charles and fiddler </item_17>
+   <item_18> linux command line </item_18>
+   <item_19> basics of bash scripting </item_19>
+   <item_20> access to remote servers </item_20>
+   <item_21> SQL </item_21>
+   <item_22> postgres database </item_22>
+   <item_23> redis nonrelational database </item_23>
+   <item_24> load testing in Jmeter </item_24>
+   <item_25> scrum development methodology </item_25>
+   <item_26> Python </item_26>
+ </skills>
